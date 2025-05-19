@@ -1,5 +1,4 @@
-# Market-Research-Modernization-with-Machine-Learning-and-Power-BI-
-Market Research Modernization with Machine Learning and Power BI 
+
 # 🧠 Market Research Modernization with Machine Learning & Power BI
 
 This project demonstrates how Machine Learning and Business Intelligence tools can modernize traditional market research techniques by uncovering hidden patterns and delivering strategic insights.
